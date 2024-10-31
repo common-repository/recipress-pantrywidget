@@ -1,0 +1,64 @@
+# Copyright (C) 2012 ReciPress - Pantry Widget add-on
+# This file is distributed under the same license as the ReciPress - Pantry Widget add-on package.
+msgid ""
+msgstr ""
+"Project-Id-Version: ReciPress - Pantry Widget add-on 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/recipress-pantry\n"
+"POT-Creation-Date: 2012-08-16 17:52:14+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2012-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: widgets/pantry-widget.class.php:38
+msgid "Display a list of ingredients currently in your pantry."
+msgstr ""
+
+#: widgets/pantry-widget.class.php:42
+msgid "My Pantry"
+msgstr ""
+
+#: widgets/pantry-widget.class.php:125
+msgid "Title:"
+msgstr ""
+
+#: widgets/pantry-widget.class.php:129
+msgid "optional"
+msgstr ""
+
+#: widgets/pantry-widget.class.php:134
+msgid "Show Ingredient Links"
+msgstr ""
+
+#: widgets/pantry-widget.class.php:138
+msgid "Ingredients"
+msgstr ""
+
+#: widgets/pantry-widget.class.php:149
+msgid "Manage Ingredients"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "ReciPress - Pantry Widget add-on"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/Omicron7/recipress-pantry"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This plugin is an add-on for ReciPress. The Pantry Widget allows you to "
+"select ingredients you have in your pantry and to list them as links to "
+"recipes that contain the ingredient."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Brian Zoetewey"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://github.com/Omicron7"
+msgstr ""
